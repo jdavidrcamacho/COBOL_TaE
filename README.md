@@ -2,5 +2,5 @@
 
 To run stuff
 
-    cobc program.cob
+    cobc -x program.cob
     ./program
