@@ -10,7 +10,7 @@
        LOCAL-STORAGE SECTION.
        01 num pic 9(8).
        PROCEDURE DIVISION.
-           move numb to num.
+           COMPUTE num = numb.
            if numb = 0
               compute fact = 1
            else
