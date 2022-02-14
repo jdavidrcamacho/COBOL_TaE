@@ -1,7 +1,7 @@
       * matrix multiplication of two matrices
       *****************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID.  Hadamard. 
+       PROGRAM-ID. MatrixMult. 
        ENVIRONMENT DIVISION.
        DATA DIVISION.
 
