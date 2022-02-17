@@ -1,4 +1,6 @@
       * Calculate the are of a triangle
+      *    TOPIC:
+      *    NUMBERS AND OPERATIONS
       *****************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID.  triangle.

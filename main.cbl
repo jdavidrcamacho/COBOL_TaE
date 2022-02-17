@@ -1,4 +1,6 @@
-      * Add two vectors into a new one          
+      * Add two vectors into a new one
+      *    TOPIC:
+      *    VECTORS AND OPERATIONS
       *****************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID.  MAIN. 

@@ -1,4 +1,6 @@
-      * multiply two matrices into a new one          
+      * multiply two matrices into a new one 
+      *    TOPIC:
+      *    MATRICES AND OPERATIONS
       *****************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID.  MAIN. 

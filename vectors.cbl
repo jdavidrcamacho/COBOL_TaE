@@ -1,4 +1,6 @@
       * vectors
+      *    TOPIC:
+      *    VECTOR CREATION
       *****************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID.  vec.

@@ -1,4 +1,6 @@
       * Hadamard multiplication of two matrices
+      *    TOPIC:
+      *    MATRICES AND OPERATIONS
       *****************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID.  Hadamard. 

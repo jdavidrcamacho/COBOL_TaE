@@ -1,4 +1,7 @@
       * matrix multiplication of two matrices
+      *    TOPIC:
+      *    MATRICES 
+      *    FOR CYCLES
       *****************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. MatrixMult. 

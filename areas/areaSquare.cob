@@ -1,4 +1,6 @@
       * calculate the area of a square
+      *    TOPIC:
+      *    NUMBERS AND OPERATIONS
       *****************************************************************
        IDENTIFICATION DIVISION. 
        PROGRAM-ID. square.

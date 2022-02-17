@@ -1,4 +1,6 @@
       * factorial function
+      *    TOPIC:
+      *    RECURSIVE FUNCTIONS
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. factorial recursive.
